@@ -10,6 +10,6 @@ Met de volgende mogelijkheden:
 6) De opdracht zal custom gemaakt worden en voldoen aan de eisen in de modulewijzer.
 
 Om een beter beeld te krijgen van de eindopdracht heb ik een afbeelding gemaakt die laat zien hoe het er ongeveer
-uit zou moeten komen zien. Zie hiervoor fotoAlbum.png
+uit zou moeten komen zien. Zie hiervoor fotoAlbum.png (https://github.com/DavidPut/OOJS_Eindopracht_FotoAlbum/blob/master/fotoAlbum.png)
 
 
