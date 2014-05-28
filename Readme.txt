@@ -1,4 +1,4 @@
-Als eindopdracht wil ik een foto galerij of foto album maken.
+Als eindopdracht wil ik een foto galerij/foto album maken.
 
 Met de volgende mogelijkheden:
 
